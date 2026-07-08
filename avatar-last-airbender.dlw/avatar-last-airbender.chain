@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 25
+slug  : avatar-last-airbender
+seal  : 7877586d83c527fc9638e2ad59d8323b51cf36463e05147de82f7f7187430e5a
+prev  : 3ff4abe5e4fe9b11585a3392155a983cc4991a47e4d0b5bb12ab2fd389d80456
+link  : 3bf0aadd87f7222965ea40b41345fce6c9a03066194962def9ee2d2d21fd3597
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
